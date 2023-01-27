@@ -1,11 +1,11 @@
 ---
-title: Boost Command Line Productivity and Maintain Remote Sessions with tmux
+title: Maintain Remote Sessions with tmux
 date: 2023-01-23
 categories: [linux,terminal]
 tags: [productivity,tools,server]
 ---
 
-# Boost Command Line Productivity and Maintain Remote Sessions with tmux
+# Maintain Remote Sessions with tmux + Boost Command Line Productivity
 
 ## What is a Terminal Multiplexer?
 A terminal multiplexer, such as tmux, allows you to run multiple terminal sessions within a single terminal window. This means you can have multiple shells open, each with its own set of processes and command history, all within a single terminal window. This can be extremely useful for developers who often need to run multiple commands or processes at the same time.
