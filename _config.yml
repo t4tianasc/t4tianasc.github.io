@@ -22,8 +22,7 @@ timezone: Europe/Paris
 title: Tatiana Sanchez ʕ•ᴥ•ʔ My Notes                          # the main title
 
 tagline: Welcome to my collection of notes, tips, and solutions for situations I have faced as
-  programmer and software/data engineer. It can help you too! whether you're just starting out 
-  or have been working in the field for some time. # it will display as the sub-title
+  programmer and software/data engineer. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Tips, solutions and documented coding examples for everyday small challenges
